@@ -2,7 +2,7 @@
 Full Stack Developer
 > 👣 Me formé en el bootcamp de HENRY como full stack developer, porque siempre me llamó la atención programar y automatizar tareas. Descubrí que me gusta colaborar en equipos ya que puedo ayudar y aprender de mis compañeros. Desarrollar en el backend me apasiona y quiero especializarme en esa área.
 
-> 💻 Realicé junto con un grupo de seis personas una aplicación web, en donde colaboré como desarrollador Frontend, para que profesionales de la Psicología puedan ofrecer sus servicios a clientes potenciales. También desarrolle una SPA donde puedes buscar información sobre todos los países y crear actividades para realizar en diferentes países.
+> 💻 Realicé junto con un grupo de seis personas una aplicación web donde colaboré como desarrollador frontend. Utilizamos la metodologia scrum  para crear la app donde profesionales de la Psicología puedan ofrecer sus servicios a clientes potenciales. También desarrolle una SPA donde puedes buscar información sobre todos los países y crear actividades para realizar en diferentes países.
 
 > 🚀 Siempre me ha apasionado la tecnología y buscar la forma de aplicarla para que me ayude a realizar tareas de forma fácil. Busco siempre aprender y mejorar mis habilidades tanto profesionales como personales para acercarme a la persona que quiero ser. 
 
