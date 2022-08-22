@@ -12,7 +12,7 @@ Full Stack Developer
 
 > 👔 <a href="https://www.linkedin.com/in/miguel-tovar-790a361b3/">Linkedin</a>
 
-> 💼 <a href="https://mt-portafolio.netlify.app">Portafolio</a>
+> 💼 <a href="https://miguel-tovar.netlify.app">Portafolio</a>
 ---
 
 Skills
